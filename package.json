@@ -1,0 +1,22 @@
+{
+  "name": "tutorial",
+  "version": "1.0.0",
+  "description": "A node js tutorial",
+  "main": "index.js",
+  "scripts": {
+    "test": "code step by step"
+  },
+  "keywords": [
+    "code",
+    "step",
+    "by",
+    "steps"
+  ],
+  "author": "Durgesh Singh",
+  "license": "ISC",
+  "dependencies": {
+    "color": "^4.2.3",
+    "colors": "^1.4.0",
+    "nodemon": "^3.1.7"
+  }
+}
